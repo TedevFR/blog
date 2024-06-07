@@ -2,3 +2,4 @@ theme: minima
 title: Ted's blog
 author: Teddy Le bras
 description: Personal dev blog
+permalink: /:year/:month/:day/:title:output_ext
