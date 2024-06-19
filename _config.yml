@@ -1,5 +1,5 @@
 theme: minima
-title: Ted's blog
+title: Le blog de Ted
 author: Teddy Le bras
-description: Personal dev blog
+description: Journal de bord d'un développeur
 permalink: /:year/:month/:day/:title:output_ext
