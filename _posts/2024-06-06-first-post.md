@@ -1,6 +1,6 @@
 ---
-title: "First-post"
+title: "Premier post"
 date: 2024-06-06
 ---
 
-This is my very first post :)
+Mon tout premier post :)
