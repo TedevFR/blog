@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog !
+title: Bienvenue sur mon blog !
 ---
 
-This blog will hosts posts about my dev journey
+Journal de bord d'un développeur
