@@ -24,7 +24,7 @@ Cette commande va faire plusieurs choses parmi lesquelles :
 - Télécharger le modèle si vous ne l’avez pas
 - Démarrer une conversation avec ce modèle dans l’invite de commande
 
-![installation llama](/assets/billet001/install_llama3.png)
+![installation llama](/blog/assets/billet001/install_llama3.png)
 
 Vous pouvez donc déjà discuter avec votre machine dans une invite de commande ! C’est sympa mais pas super moderne… La première bonne nouvelle c’est que ollama expose une api qui vous permet d’interagir avec le LLM, la seconde bonne nouvelle c’est que pleins de gens ont déjà créer des projets pour utiliser cette api et qu’il suffit d’en installer un !
 
@@ -36,4 +36,4 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 Il vous suffit maintenant de vous rendre sur la page http://localhost:3000/ pour y trouver une interface sympa à utiliser avec votre modèle, le tout en local !
 A vous les discussions profondes... Ou pas !
 
-![discussion avec llama](/assets/billet001/discussion_llama3.png)
+![discussion avec llama](/blog/assets/billet001/discussion_llama3.png)
