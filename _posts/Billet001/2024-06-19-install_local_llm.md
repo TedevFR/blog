@@ -14,7 +14,7 @@ winget install Ollama.Ollama
 ```
 
 # Choisir et installer un LLM
-Ollama est compatible avec beaucoup de LLM, la liste complète est disponible sur cette page : https://ollama.com/library\
+Ollama est compatible avec beaucoup de LLM, la liste complète est disponible sur cette page : [https://ollama.com/library](https://ollama.com/library) \
 Ici, nous allons utiliser le modèle llama3 en version 8b, pour cela, saisissez la commande suivante :
 ```
 ollama run llama3:8b
