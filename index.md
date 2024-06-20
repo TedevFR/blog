@@ -1,7 +1,5 @@
-<!--
 ---
-title: Bienvenue sur mon blog
+title: Journal de bord d'un développeur
 ---
--->
 
 Journal de bord d'un développeur
