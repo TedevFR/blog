@@ -1,5 +1,5 @@
 ---
-title: Journal de bord d'un développeur
+title: Bienvenue sur le blog de Ted !
 ---
 
-Journal de bord d'un développeur
+Un petit aperçu des derniers post ?
