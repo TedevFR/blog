@@ -1,6 +1,6 @@
 ---
 title: "Installer et utiliser un LLM chez soi"
-date: 2024-20-06
+date: 2024-06-20
 ---
 
 Pour héberger et faire tourner notre LLM (Large Language Model), nous allons devoir installer et utiliser plusieurs outils.\
