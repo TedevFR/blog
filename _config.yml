@@ -3,9 +3,5 @@ title: Le blog de Ted
 author: Teddy Le bras
 description: Journal de bord d'un développeur
 permalink: /:year/:month/:day/:title:output_ext
-github_username:  jekyll
-
-minima:
-  skin: classic
-  social_links:
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/teddylebras" }
+github_username: TedevFR
+linked_username: teddylebras
